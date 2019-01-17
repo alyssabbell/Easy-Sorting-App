@@ -1,0 +1,12 @@
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+C:\Users\alyssa\Desktop\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Lab7\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csprojResolveAssemblyReference.cache
